@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add integrations/gradio Docs page (#7935)
