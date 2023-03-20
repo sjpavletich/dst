@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
