@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update mkdocs.yml (#7693)
