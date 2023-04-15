@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Docs partial mdformat improvements (#7378)
