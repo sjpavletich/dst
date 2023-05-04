@@ -1,1 +1,1 @@
-fix predict with class filter
+added badges (#45)
