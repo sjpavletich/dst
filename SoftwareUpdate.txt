@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Feature: Create HUB Models from CLI or Python Script (#7316)
