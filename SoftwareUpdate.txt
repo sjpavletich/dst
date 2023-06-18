@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Python refactorings and simplifications (#7549)
