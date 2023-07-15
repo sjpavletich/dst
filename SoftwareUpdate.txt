@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update pyproject.toml and Docs (#7274)
