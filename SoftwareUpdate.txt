@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fixed RTDETR GFLOPs bug (#7309)
