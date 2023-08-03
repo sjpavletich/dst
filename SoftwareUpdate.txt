@@ -1,1 +1,1 @@
-example Google Colab
+Update OpenVINO INT8 export (#7515)
