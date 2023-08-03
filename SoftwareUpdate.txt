@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
