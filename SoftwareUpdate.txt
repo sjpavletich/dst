@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
