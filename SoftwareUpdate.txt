@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
