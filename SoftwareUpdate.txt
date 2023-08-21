@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
