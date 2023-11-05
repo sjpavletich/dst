@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
