@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add Neural Magic Docs integrations page (#7234)
