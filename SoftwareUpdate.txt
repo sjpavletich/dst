@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix xyxyxyxyn calculation, swap axis (#8249)
