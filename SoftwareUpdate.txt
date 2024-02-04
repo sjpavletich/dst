@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
