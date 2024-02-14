@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
