@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
