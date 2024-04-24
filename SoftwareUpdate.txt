@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
